@@ -33,13 +33,13 @@ Every account includes:
 - 👑 **King Rank**
 - 🏆 **670,000 Race Wins**
 - 🔧 **W16 Engine**
-- 🛡️ **No Engine Damage**
+- 🛞 **All Rims Unlocked**
+- 🛡️ No Engine Damage
 - ⛽ Unlimited Fuel
-- 💨 Smoke
-- 📢 Horns
-- 🎬 Full Animations
-- 🛞 Full Wheels
-- 👕 Full Equipment (Male + Female)
+- 💨 Unlocked Smoke Colors
+- 📢 Unlocked All Horns
+- 🎬 Unlocked Animations
+- 👕 Unlocked Equipment (Male + Female)
 
 > The text files only contain **Email + Password**.  
 > All unlocks are already applied on the game servers.
