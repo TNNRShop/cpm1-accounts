@@ -1,10 +1,11 @@
 # 🚗 CPM1 Accounts Database
-🔄 Live Sync Progress: Processing Split 802  
-📊 Current Total Accounts: 40,100  
+🔄 Live Sync Progress: Processing Split 803  
+📊 Current Total Accounts: 40,150  
 
 ---
 
 ### 📂 Account Splits & Raw Links
+- ✅ **Split 803**: [`accounts_split_803.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_803.txt)
 - ✅ **Split 802**: [`accounts_split_802.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_802.txt)
 - ✅ **Split 801**: [`accounts_split_801.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_801.txt)
 - ✅ **Split 800**: [`accounts_split_800.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_800.txt)
