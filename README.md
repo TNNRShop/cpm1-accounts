@@ -3,8 +3,8 @@
 Automated high-speed account generation repository for CPM1.
 
 ## 📊 Live Statistics
-- **Total Accounts Generated:** 🎯 50
-- **Total Active Splits:** 📂 1
+- **Total Accounts Generated:** 🎯 100
+- **Total Active Splits:** 📂 2
 - **Max Accounts Per Split:** ⚡ 50
 - **Format:** Vertical block layout (`Email:` / `Password:`)
 
@@ -12,6 +12,7 @@ Automated high-speed account generation repository for CPM1.
 
 ## 🔗 Active Split Files & Raw Links
 - 📁 **accounts_split_1.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/https://main/accounts_split_1.txt)
+- 📁 **accounts_split_2.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/https://main/accounts_split_2.txt)
 
 
 ---
