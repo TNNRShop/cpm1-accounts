@@ -1,11 +1,18 @@
-# CPM1 Accounts Repository
+# 🚗 CPM1 Accounts Repository
 
-Automated account generation repository for CPM1.
+Automated high-speed account generation repository for CPM1.
 
-## Live Statistics
-- **Total Accounts Generated:** 788
-- **Total Active Splits:** 3
-- **Max Accounts Per Split:** 50
-- **Format per line:** `email:password:uid`
+## 📊 Live Statistics
+- **Total Accounts Generated:** 🎯 50
+- **Total Active Splits:** 📂 1
+- **Max Accounts Per Split:** ⚡ 50
+- **Format:** Vertical block layout (`Email:` / `Password:`)
 
-Last updated automatically via high-speed Termux script.
+---
+
+## 🔗 Active Split Files & Raw Links
+- 📁 **accounts_split_1.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/https://main/accounts_split_1.txt)
+
+
+---
+*Last updated automatically via high-speed Termux script.* 🚀
