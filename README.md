@@ -1,10 +1,10 @@
 # 🚗 CPM1 Accounts Repository
 
-Automated high-speed account generation repository for CPM1.
+Automated account formatting and synchronization repository.
 
 ## 📊 Live Statistics
-- **Total Accounts Generated:** 🎯 2,732
-- **Total Active Splits:** 📂 54
+- **Total Accounts Formatted:** 🎯 2,780
+- **Total Active Splits:** 📂 55
 - **Max Accounts Per Split:** ⚡ 50
 - **Format:** Vertical block layout (`Email:` / `Password:`)
 
@@ -65,7 +65,8 @@ Automated high-speed account generation repository for CPM1.
 - 📁 **accounts_split_52.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_52.txt)
 - 📁 **accounts_split_53.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_53.txt)
 - 📁 **accounts_split_54.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_54.txt)
+- 📁 **accounts_split_55.txt** — 🔄 In Progress (48/50) — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_55.txt)
 
 
 ---
-*Last updated automatically via multi-instance Termux script.* 🚀
+*Last updated automatically via sync script.* 🚀
