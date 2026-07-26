@@ -3,8 +3,8 @@
 Automated high-speed account generation repository for CPM1.
 
 ## 📊 Live Statistics
-- **Total Accounts Generated:** 🎯 1,332
-- **Total Active Splits:** 📂 26
+- **Total Accounts Generated:** 🎯 1,382
+- **Total Active Splits:** 📂 27
 - **Max Accounts Per Split:** ⚡ 50
 - **Format:** Vertical block layout (`Email:` / `Password:`)
 
@@ -37,6 +37,7 @@ Automated high-speed account generation repository for CPM1.
 - 📁 **accounts_split_24.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_24.txt)
 - 📁 **accounts_split_25.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_25.txt)
 - 📁 **accounts_split_26.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_26.txt)
+- 📁 **accounts_split_27.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_27.txt)
 
 
 ---
