@@ -1,7 +1,7 @@
 # 🚗 CPM1 Accounts Database
 📊 **Total Unique Accounts:** 234,048  
 📦 **Total Active Splits:** 4681 (50 accounts per file)  
-🔄 **Live Sync Progress:** Processing Split 74  
+🔄 **Live Sync Progress:** Processing Split 75  
 
 ---
 
@@ -80,3 +80,4 @@
 - ✅ **Split 72**: [`accounts_split_72.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_72.txt) *(50 accounts)*
 - ✅ **Split 73**: [`accounts_split_73.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_73.txt) *(50 accounts)*
 - ✅ **Split 74**: [`accounts_split_74.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_74.txt) *(50 accounts)*
+- ✅ **Split 75**: [`accounts_split_75.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_75.txt) *(50 accounts)*
