@@ -2,9 +2,10 @@
 
 Automated account generation repository for CPM1.
 
-## Splits Overview
-- **Total Active Splits:** 1
-- **Max Accounts Per Split:** 2000
+## Live Statistics
+- **Total Accounts Generated:** 738
+- **Total Active Splits:** 2
+- **Max Accounts Per Split:** 50
 - **Format per line:** `email:password:uid`
 
-Last updated automatically via Termux automation script.
+Last updated automatically via high-speed Termux script.
