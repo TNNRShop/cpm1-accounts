@@ -3,8 +3,8 @@
 Automated high-speed account generation repository for CPM1.
 
 ## 📊 Live Statistics
-- **Total Accounts Generated:** 🎯 532
-- **Total Active Splits:** 📂 10
+- **Total Accounts Generated:** 🎯 582
+- **Total Active Splits:** 📂 11
 - **Max Accounts Per Split:** ⚡ 50
 - **Format:** Vertical block layout (`Email:` / `Password:`)
 
@@ -12,7 +12,6 @@ Automated high-speed account generation repository for CPM1.
 
 ## 🔗 Active Split Files & Raw Links
 - 📁 **accounts_split_1.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_1.txt)
-- 📁 **accounts_split_10.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_10.txt)
 - 📁 **accounts_split_2.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_2.txt)
 - 📁 **accounts_split_3.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_3.txt)
 - 📁 **accounts_split_4.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_4.txt)
@@ -21,6 +20,8 @@ Automated high-speed account generation repository for CPM1.
 - 📁 **accounts_split_7.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_7.txt)
 - 📁 **accounts_split_8.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_8.txt)
 - 📁 **accounts_split_9.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_9.txt)
+- 📁 **accounts_split_10.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_10.txt)
+- 📁 **accounts_split_11.txt** — ✅ Complete — [🔗 Raw Link](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/refs/heads/main/accounts_split_11.txt)
 
 
 ---
