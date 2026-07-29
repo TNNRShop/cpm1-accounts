@@ -1,10 +1,20 @@
 # 🚗 CPM1 Accounts Database
-🔄 Live Sync Progress: Processing Split 6935  
-📊 Current Total Accounts: 346,750  
+🔄 Live Sync Progress: Processing Split 6945  
+📊 Current Total Accounts: 347,250  
 
 ---
 
 ### 📂 Account Splits & Raw Links
+- ✅ **Split 6945**: [`accounts_split_6945.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6945.txt)
+- ✅ **Split 6944**: [`accounts_split_6944.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6944.txt)
+- ✅ **Split 6943**: [`accounts_split_6943.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6943.txt)
+- ✅ **Split 6942**: [`accounts_split_6942.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6942.txt)
+- ✅ **Split 6941**: [`accounts_split_6941.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6941.txt)
+- ✅ **Split 6940**: [`accounts_split_6940.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6940.txt)
+- ✅ **Split 6939**: [`accounts_split_6939.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6939.txt)
+- ✅ **Split 6938**: [`accounts_split_6938.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6938.txt)
+- ✅ **Split 6937**: [`accounts_split_6937.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6937.txt)
+- ✅ **Split 6936**: [`accounts_split_6936.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6936.txt)
 - ✅ **Split 6935**: [`accounts_split_6935.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6935.txt)
 - ✅ **Split 6934**: [`accounts_split_6934.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6934.txt)
 - ✅ **Split 6933**: [`accounts_split_6933.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_6933.txt)
