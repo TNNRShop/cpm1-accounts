@@ -1,10 +1,30 @@
 # 🚗 CPM1 Accounts Database
-🔄 Live Sync Progress: Processing Split 1967  
-📊 Current Total Accounts: 98,350  
+🔄 Live Sync Progress: Processing Split 1987  
+📊 Current Total Accounts: 99,350  
 
 ---
 
 ### 📂 Account Splits & Raw Links
+- ✅ **Split 1987**: [`accounts_split_1987.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1987.txt)
+- ✅ **Split 1986**: [`accounts_split_1986.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1986.txt)
+- ✅ **Split 1985**: [`accounts_split_1985.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1985.txt)
+- ✅ **Split 1984**: [`accounts_split_1984.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1984.txt)
+- ✅ **Split 1983**: [`accounts_split_1983.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1983.txt)
+- ✅ **Split 1982**: [`accounts_split_1982.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1982.txt)
+- ✅ **Split 1981**: [`accounts_split_1981.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1981.txt)
+- ✅ **Split 1980**: [`accounts_split_1980.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1980.txt)
+- ✅ **Split 1979**: [`accounts_split_1979.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1979.txt)
+- ✅ **Split 1978**: [`accounts_split_1978.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1978.txt)
+- ✅ **Split 1977**: [`accounts_split_1977.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1977.txt)
+- ✅ **Split 1976**: [`accounts_split_1976.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1976.txt)
+- ✅ **Split 1975**: [`accounts_split_1975.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1975.txt)
+- ✅ **Split 1974**: [`accounts_split_1974.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1974.txt)
+- ✅ **Split 1973**: [`accounts_split_1973.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1973.txt)
+- ✅ **Split 1972**: [`accounts_split_1972.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1972.txt)
+- ✅ **Split 1971**: [`accounts_split_1971.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1971.txt)
+- ✅ **Split 1970**: [`accounts_split_1970.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1970.txt)
+- ✅ **Split 1969**: [`accounts_split_1969.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1969.txt)
+- ✅ **Split 1968**: [`accounts_split_1968.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1968.txt)
 - ✅ **Split 1967**: [`accounts_split_1967.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1967.txt)
 - ✅ **Split 1966**: [`accounts_split_1966.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1966.txt)
 - ✅ **Split 1965**: [`accounts_split_1965.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_1965.txt)
