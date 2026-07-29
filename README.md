@@ -1,10 +1,30 @@
 # 🚗 CPM1 Accounts Database
-🔄 Live Sync Progress: Processing Split 2007  
-📊 Current Total Accounts: 100,350  
+🔄 Live Sync Progress: Processing Split 2027  
+📊 Current Total Accounts: 101,350  
 
 ---
 
 ### 📂 Account Splits & Raw Links
+- ✅ **Split 2027**: [`accounts_split_2027.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2027.txt)
+- ✅ **Split 2026**: [`accounts_split_2026.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2026.txt)
+- ✅ **Split 2025**: [`accounts_split_2025.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2025.txt)
+- ✅ **Split 2024**: [`accounts_split_2024.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2024.txt)
+- ✅ **Split 2023**: [`accounts_split_2023.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2023.txt)
+- ✅ **Split 2022**: [`accounts_split_2022.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2022.txt)
+- ✅ **Split 2021**: [`accounts_split_2021.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2021.txt)
+- ✅ **Split 2020**: [`accounts_split_2020.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2020.txt)
+- ✅ **Split 2019**: [`accounts_split_2019.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2019.txt)
+- ✅ **Split 2018**: [`accounts_split_2018.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2018.txt)
+- ✅ **Split 2017**: [`accounts_split_2017.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2017.txt)
+- ✅ **Split 2016**: [`accounts_split_2016.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2016.txt)
+- ✅ **Split 2015**: [`accounts_split_2015.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2015.txt)
+- ✅ **Split 2014**: [`accounts_split_2014.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2014.txt)
+- ✅ **Split 2013**: [`accounts_split_2013.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2013.txt)
+- ✅ **Split 2012**: [`accounts_split_2012.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2012.txt)
+- ✅ **Split 2011**: [`accounts_split_2011.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2011.txt)
+- ✅ **Split 2010**: [`accounts_split_2010.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2010.txt)
+- ✅ **Split 2009**: [`accounts_split_2009.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2009.txt)
+- ✅ **Split 2008**: [`accounts_split_2008.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2008.txt)
 - ✅ **Split 2007**: [`accounts_split_2007.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2007.txt)
 - ✅ **Split 2006**: [`accounts_split_2006.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2006.txt)
 - ✅ **Split 2005**: [`accounts_split_2005.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_2005.txt)
