@@ -1,5 +1,5 @@
 📊 Current Total Accounts: 550,750  
-🗂️ 50 Accounts Per Split
+🗂️ 50 Accounts Per Splits
 📌 Click The Blue Hyperlinks to Enter the Splits 
 
 ### 📂 Account Splits & Raw Links
