@@ -41,6 +41,28 @@
 
 ---
 
+# ✅ Account Verification Guide
+
+> [!IMPORTANT]
+> Verifying your account unlocks features such as **World Sale** and other Google account functionality.
+
+## 📋 Steps
+
+1. Visit the **Google Account Sign Up** page:
+   - 👉 https://accounts.google.com/signup
+
+2. Enter same front part of the email that corresponds to the account you are currently using. Example: Tanner777@gmail.com, I would make Tanner777 the email address I want.
+
+3. Continue through the Google account creation process to create a Gmail address for that account.
+
+4. Once the Gmail account has been created, return to the game and send a **verification email**.
+
+5. Open the verification email in your new Gmail inbox and follow the verification link.
+
+6. Your account is now verified and ready to use **World Sale** and other supported features.
+
+---
+
 # 📌 Interactive Splits Directory
 
 > [!TIP]
