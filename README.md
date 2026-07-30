@@ -1,10 +1,6 @@
-<div align="center">
-
 # 🌐 TNNR CPM1 FREE ACCOUNT DATABASE 🌐 
 
 <!-- BADGES -->
-
-<div align="center">
 
 <a href="#">
   <img src="https://img.shields.io/badge/TOTAL%20ACCOUNTS-550%2C750-7C8CFF?style=for-the-badge&logo=person&logoColor=white" alt="Total Accounts">
