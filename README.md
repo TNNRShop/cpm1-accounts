@@ -21,22 +21,23 @@
 | 🗂️ **Total Database Volume** | `550,750 Accounts` | Complete dataset count |
 | ✂️ **Accounts Per Split** | `50 Accounts / Split` | Made to help limit mass changes |
 | 📦 **Total Split Files** | `11,015 Batches` | Amount of directories |
-| 👤 **Maintainer & Creator** | **JustTnnr** | Repository Owner|
+| 👤 **Creator** | **JustTnnr** | Repository Owner|
 
 ---
 
-| Feature | Included |
-|:--|:--:|
-| 💰 **Cash** | **50,000,000              ** |
-| 🪙 **Coins** | **30,000** |
-| 👑 **Rank** | **King Rank** |
-| 🏆 **Race Wins** | **670,000** |
-| 🔧 **Engine** | **W16 Engine** |
-| 🛞 **Rims** | **All Unlocked** |
-| 🛡️ **Engine Damage** | **Disabled** |
-| ⛽ **Fuel** | **Unlimited** |
-| 💨 **Smoke Colors** | **All Unlocked** |
-| 📢 **Horns** | **All Unlocked** |
+> [!IMPORTANT]
+> Every account includes:
+
+- ✅ 💰 **50,000,000 Cash**
+- ✅ 🪙 **30,000 Coins**
+- ✅ 👑 **King Rank**
+- ✅ 🏆 **670,000 Race Wins**
+- ✅ 🔧 **W16 Engine**
+- ✅ 🛞 **All Rims Unlocked**
+- ✅ 🛡️ **No Engine Damage**
+- ✅ ⛽ **Unlimited Fuel**
+- ✅ 💨 **All Smoke Colors Unlocked**
+- ✅ 📢 **All Horns Unlocked**
 
 ---
 
