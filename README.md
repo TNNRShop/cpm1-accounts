@@ -1,39 +1,54 @@
 <div align="center">
+
 # ⚡ TNNR Account Directory & Split Repository
-<p align="center">
-  <b>High-Performance Account Dataset Split Engine</b><br>
-  <i>Automated batch processing and organized repository management.</i>
-</p>
+
+**High-Performance Account Dataset Split Engine**
+
+*Automated batch processing and organized repository management.*
+
 <!-- BADGES -->
-<a href="#"><img src="https://img.shields.io/badge/Total%20Accounts-550%2C750-007ACC?style=for-the-badge&logo=database&logoColor=white" alt="Total Accounts"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Split%20Size-50%20Accounts-10B981?style=for-the-badge&logo=files&logoColor=white" alt="Split Size"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Total%20Splits-11%2C015-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="Total Splits"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Total%20Accounts-550%2C750-007ACC?style=for-the-badge&logo=database&logoColor=white" alt="Total Accounts"></a>
+<a href="#"><img src="https://img.shields.io/badge/Split%20Size-50%20Accounts-10B981?style=for-the-badge&logo=files&logoColor=white" alt="Split Size"></a>
+<a href="#"><img src="https://img.shields.io/badge/Total%20Splits-11%2C015-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="Total Splits"></a>
 
 </div>
-## 📊 Repository Dashboard
-
-| :--- | :--- | :--- |
-| **🗂️ Total Database Volume** | `550,750 Accounts` | Complete dataset count |
-| **✂️ Accounts Per Split** | `50 Accounts / Split` | Made to help limit mass changes |
-| **📦 Total Split Files** | `11,015 Batches` | Amount of directories |
-| **👤 Maintainer & Creator** | **TNNR** | Original repository architect |
 
 ---
-## 📌 Interactive Splits Directory
+
+# 📊 Repository Dashboard
+
+| Category | Value | Description |
+|:--|:--|:--|
+| 🗂️ **Total Database Volume** | `550,750 Accounts` | Complete dataset count |
+| ✂️ **Accounts Per Split** | `50 Accounts / Split` | Made to help limit mass changes |
+| 📦 **Total Split Files** | `11,015 Batches` | Amount of directories |
+| 👤 **Maintainer & Creator** | **TNNR** | Original repository architect |
+
+---
+
+# 📌 Interactive Splits Directory
+
 > [!TIP]
-> **Navigation Tip:** Click any of the **blue hyperlinks** in the table below to enter and view the specific split batch. Each split file contains exactly 50 account records.
-<br>
+> **Navigation Tip:** Click any of the **blue hyperlinks** in the table below to open the desired split batch. Each split file contains exactly **50 account records**.
+
 <details open>
-<summary><b>📂 Quick Directory: Splits 0001 – 0100 (Accounts 1 to 5,000)</b></summary>
-<br>
+<summary><strong>📂 Quick Directory: Splits 0001–0100 (Accounts 1–5,000)</strong></summary>
+
+<!-- Insert split links here -->
 
 </details>
+
 ---
-## 🛠️ Usage Instructions
+
+# 🛠️ Usage Instructions
+
 > [!NOTE]
-> 1. Click on the desired range above to open the split repository directory.
-> 2. Click the **Blue Hyperlinks** to enter the individual split file containing 50 account credentials/records.
-> 3. Accounts and repository architecture created & maintained by **TNNR**.
+> 1. Open the desired split range above.
+> 2. Click the **blue hyperlinks** to access the individual split file.
+> 3. Each split contains **50 account records**.
+> 4. Repository architecture and account organization are maintained by **TNNR**.
+
 ---
 
 ## 📂 Account Splits & Raw Links
