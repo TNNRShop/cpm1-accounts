@@ -49,7 +49,7 @@
 ## 📋 Steps
 
 1. Visit the **Google Account Sign Up** page:
-   - 👉 https://accounts.google.com/signup
+👉 https://accounts.google.com/signup
 
 2. Enter same front part of the email that corresponds to the account you are currently using. Example: Tanner777@gmail.com, I would make Tanner777 the email address I want.
 
