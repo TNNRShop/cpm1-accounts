@@ -1,7 +1,7 @@
 📊 Current Total Accounts: 550,750  
-🔄 Live Sync Progress: Paused
-
----
+🗂️ 50 Accounts Per Split
+📌 Click The Blue Hyperlinks to Enter the Splits.
+--- 
 
 ### 📂 Account Splits & Raw Links
 - ✅ **Split 11015**: [`accounts_split_11015.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_11015.txt)
