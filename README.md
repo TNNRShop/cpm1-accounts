@@ -1,4 +1,6 @@
-# 🌐 TNNR CPM1 FREE ACCOUNT DATABASE 🌐 
+<div align="center">
+
+# 🌐 TNNR CPM1 FREE ACCOUNT DATABASE 🌐
 
 <!-- BADGES -->
 
