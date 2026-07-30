@@ -1,6 +1,64 @@
-📊 Current Total Accounts: 550,750  
-🗂️ 50 Accounts Per Splits
-📌 Click The Blue Hyperlinks to Enter the Splits 
+<div align="center">
+# ⚡ TNNR Account Directory & Split Repository
+<p align="center">
+  <b>High-Performance Account Dataset Split Engine</b><br>
+  <i>Automated batch processing and organized repository management.</i>
+</p>
+<!-- BADGES -->
+<a href="#"><img src="https://img.shields.io/badge/Total%20Accounts-550%2C750-007ACC?style=for-the-badge&logo=database&logoColor=white" alt="Total Accounts"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Split%20Size-50%20Accounts-10B981?style=for-the-badge&logo=files&logoColor=white" alt="Split Size"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Total%20Splits-11%2C015-8B5CF6?style=for-the-badge&logo=git&logoColor=white" alt="Total Splits"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Created%20By-TNNR-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Created By JustTNNR on Tiktok for Free Use!"/></a>
+---
+</div>
+## 📊 Repository Dashboard
+
+| Parameter | Metric / Value | Description & Status |
+| :--- | :--- | :--- |
+| **🗂️ Total Database Volume** | `550,750 Accounts` | Complete dataset count |
+| **✂️ Accounts Per Split** | `50 Accounts / Split` | Standardized chunk size |
+| **📦 Total Split Files** | `11,015 Batches` | Generated directory files |
+| **👤 Maintainer & Creator** | **TNNR** | Original repository architect |
+
+---
+## 📌 Interactive Splits Directory
+> [!TIP]
+> **Navigation Tip:** Click any of the **blue hyperlinks** in the table below to enter and view the specific split batch. Each split file contains exactly 50 account records.
+<br>
+<details open>
+<summary><b>📂 Quick Directory: Splits 0001 – 0100 (Accounts 1 to 5,000)</b></summary>
+<br>
+
+| Batch ID | Account Range | Hyperlink | Status |
+| :--- | :--- | :--- | :--- |
+| **Split #0001** | `1 – 50` | [🔗 Enter Split #0001](./splits/split_0001.md) | `Ready` |
+| **Split #0002** | `51 – 100` | [🔗 Enter Split #0002](./splits/split_0002.md) | `Ready` |
+| **Split #0003** | `101 – 150` | [🔗 Enter Split #0003](./splits/split_0003.md) | `Ready` |
+| **Split #0004** | `151 – 200` | [🔗 Enter Split #0004](./splits/split_0004.md) | `Ready` |
+| **Split #0005** | `201 – 250` | [🔗 Enter Split #0005](./splits/split_0005.md) | `Ready` |
+| *...* | *...* | *...* | *...* |
+| **Split #11015** | `550,701 – 550,750` | [🔗 Enter Split #11015](./splits/split_11015.md) | `Ready` |
+
+</details>
+<details>
+<summary><b>📂 Quick Directory: Master Index (Splits 0101 – 11015)</b></summary>
+<br>
+
+| Range Group | Account Index | Directory Link |
+| :--- | :--- | :--- |
+| **Batches 0101 – 0500** | `5,001 – 25,000` | [📁 View Group Index](./splits/index_group_1.md) |
+| **Batches 0501 – 2500** | `25,001 – 125,000` | [📁 View Group Index](./splits/index_group_2.md) |
+| **Batches 2501 – 5000** | `125,001 – 250,000` | [📁 View Group Index](./splits/index_group_3.md) |
+| **Batches 5001 – 11015** | `250,001 – 550,750` | [📁 View Group Index](./splits/index_group_4.md) |
+
+</details>
+---
+## 🛠️ Usage Instructions
+> [!NOTE]
+> 1. Click on the desired range above to open the split repository directory.
+> 2. Click the **Blue Hyperlinks** to enter the individual split file containing 50 account credentials/records.
+> 3. Accounts and repository architecture created & maintained by **TNNR**.
+---
 
 ### 📂 Account Splits & Raw Links
 - ✅ **Split 11015**: [`accounts_split_11015.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_11015.txt)
