@@ -5,8 +5,10 @@
 <!-- BADGES -->
 
 <a href="#"><img src="https://img.shields.io/badge/Total%20Accounts-550%2C750-60A5FA?style=for-the-badge&logo=database&logoColor=white" alt="Total Accounts"></a>
-<a href="#"><img src="https://img.shields.io/badge/Split%20Size-50%20Accounts-3B82F6?style=for-the-badge&logo=files&logoColor=white" alt="Split Size"></a>
+
 <a href="#"><img src="https://img.shields.io/badge/Total%20Splits-11%2C015-1D4ED8?style=for-the-badge&logo=git&logoColor=white" alt="Total Splits"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Split%20Size-50%20Accounts-3B82F6?style=for-the-badge&logo=files&logoColor=white" alt="Split Size"></a>
 
 </div>
 
@@ -20,12 +22,12 @@
 | ✂️ **Accounts Per Split** | `50 Accounts / Split` | Made to help limit mass changes |
 | 📦 **Total Split Files** | `11,015 Batches` | Amount of directories |
 | 👤 **Maintainer & Creator** | **JustTnnr** | Repository Owner|
----
 
 ---
+
 | Feature | Included |
 |:--|:--:|
-| 💰 **Cash** | **50,000,000** |
+| 💰 **Cash** | **50,000,000              ** |
 | 🪙 **Coins** | **30,000** |
 | 👑 **Rank** | **King Rank** |
 | 🏆 **Race Wins** | **670,000** |
@@ -35,16 +37,15 @@
 | ⛽ **Fuel** | **Unlimited** |
 | 💨 **Smoke Colors** | **All Unlocked** |
 | 📢 **Horns** | **All Unlocked** |
----
 
 ---
+
 # 📌 Interactive Splits Directory
 
 > [!TIP]
 > Click any of the **blue hyperlinks** in the table below to open the desired split batch. 
 
 ---
-<details open>
   
 ## 📂 Account Splits & Raw Links
 - ✅ **Split 11015**: [`accounts_split_11015.txt`](https://raw.githubusercontent.com/TNNRShop/cpm1-accounts/main/accounts_split_11015.txt)
