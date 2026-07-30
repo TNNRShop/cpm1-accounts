@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ TNNR CPM1 FREE ACCOUNT DATABASE ⚡ 
+# 🌐 TNNR CPM1 FREE ACCOUNT DATABASE 🌐 
 
 <!-- BADGES -->
 
@@ -20,9 +20,24 @@
 | ✂️ **Accounts Per Split** | `50 Accounts / Split` | Made to help limit mass changes |
 | 📦 **Total Split Files** | `11,015 Batches` | Amount of directories |
 | 👤 **Maintainer & Creator** | **JustTnnr** | Repository Owner|
-
 ---
 
+---
+| Feature | Included |
+|:--|:--:|
+| 💰 **Cash** | **50,000,000** |
+| 🪙 **Coins** | **30,000** |
+| 👑 **Rank** | **King Rank** |
+| 🏆 **Race Wins** | **670,000** |
+| 🔧 **Engine** | **W16 Engine** |
+| 🛞 **Rims** | **All Unlocked** |
+| 🛡️ **Engine Damage** | **Disabled** |
+| ⛽ **Fuel** | **Unlimited** |
+| 💨 **Smoke Colors** | **All Unlocked** |
+| 📢 **Horns** | **All Unlocked** |
+---
+
+---
 # 📌 Interactive Splits Directory
 
 > [!TIP]
