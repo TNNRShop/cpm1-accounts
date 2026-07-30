@@ -4,11 +4,19 @@
 
 <!-- BADGES -->
 
-<a href="#"><img src="https://img.shields.io/badge/Total%20Accounts-550%2C750-60A5FA?style=for-the-badge&logo=database&logoColor=white" alt="Total Accounts"></a>
+<div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Total%20Splits-11%2C015-1D4ED8?style=for-the-badge&logo=git&logoColor=white" alt="Total Splits"></a>
+<a href="#">
+  <img src="https://img.shields.io/badge/TOTAL%20ACCOUNTS-550%2C750-7C8CFF?style=for-the-badge&logo=person&logoColor=white" alt="Total Accounts">
+</a>
 
-<a href="#"><img src="https://img.shields.io/badge/Split%20Size-50%20Accounts-3B82F6?style=for-the-badge&logo=files&logoColor=white" alt="Split Size"></a>
+<a href="#">
+  <img src="https://img.shields.io/badge/TOTAL%20SPLITS-11%2C015-4C5BFF?style=for-the-badge&logo=git&logoColor=white" alt="Total Splits">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/SPLIT%20SIZE-50%20ACCOUNTS-3923B8?style=for-the-badge&logo=files&logoColor=white" alt="Split Size">
+</a>
 
 </div>
 
